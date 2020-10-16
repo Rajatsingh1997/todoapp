@@ -1,0 +1,31 @@
+.btn{
+    background-color: rgb(10, 110, 153);
+    border: 2px solid black;
+    height: 32px;
+    color: cornsilk;
+    width: 100px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.btn:hover{
+    background-color: green;
+}
+input[type=text]{
+    height: 32px;
+    width: 30%;
+    border: 2px solid black;
+    margin-right: 10px;
+    font-size: large;
+}
+input[type=date]{
+    height: 32px;
+    border: 2px solid black;
+    font-size: large;
+    color: black;
+   
+  
+}
+.forminput{
+    text-align: center;
+    margin: auto;
+}
